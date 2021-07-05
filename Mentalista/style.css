@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/a0/a0/16/a0a01608a0386ad052a15a5af8196be7.png);
+    font-family: 'Chango', cursive;
+    color: whitesmoke;
+}
+section{    
+    background: rgb(178, 131, 240);
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    box-shadow: 5px 5px 0px black;
+}
+input{
+    height: 40px;
+    font-size: 20px;
+    text-align: center;
+    background: whitesmoke;
+}
+.title{       
+    font-size: 40px;             
+}
+#button{
+    margin-top: 10px;
+    background: rgb(245, 39, 235);
+    box-shadow: 4px 4px rgba(0, 0, 0, 0.61);
+    font-family: inherit;
+    color: whitesmoke;    
+}
+#res{
+    margin-top: 20px;
+    font-size: 19px;
+}
+#tent {
+    padding: 20px;
+}
